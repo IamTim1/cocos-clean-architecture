@@ -1,0 +1,11 @@
+{
+  "name": "cocos-clean-architecture",
+  "uuid": "a1e8c3f2-4b7d-4e91-9c2a-6f5d8b0e1a47",
+  "version": "3.7.3",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "scripts": {
+    "test": "npx --yes tsx --test test/ca.test.ts"
+  }
+}
